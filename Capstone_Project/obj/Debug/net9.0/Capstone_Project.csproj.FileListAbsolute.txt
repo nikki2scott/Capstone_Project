@@ -1,0 +1,9 @@
+/Users/nikkiscott/Desktop/Capstone Project/Capstone_Project/obj/Debug/net9.0/Capstone_Project.csproj.AssemblyReference.cache
+/Users/nikkiscott/Desktop/Capstone Project/Capstone_Project/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/nikkiscott/Desktop/Capstone Project/Capstone_Project/obj/Debug/net9.0/Capstone_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikkiscott/Desktop/Capstone Project/Capstone_Project/obj/Debug/net9.0/Capstone_Project.AssemblyInfoInputs.cache
+/Users/nikkiscott/Desktop/Capstone Project/Capstone_Project/obj/Debug/net9.0/Capstone_Project.AssemblyInfo.cs
+/Users/nikkiscott/Desktop/Capstone Project/Capstone_Project/obj/Debug/net9.0/Capstone_Project.csproj.CoreCompileInputs.cache
+/Users/nikkiscott/Desktop/Capstone Project/Capstone_Project/obj/Debug/net9.0/Capstone_Project.MvcApplicationPartsAssemblyInfo.cs
+/Users/nikkiscott/Desktop/Capstone Project/Capstone_Project/obj/Debug/net9.0/Capstone_Project.MvcApplicationPartsAssemblyInfo.cache
+/Users/nikkiscott/Desktop/Capstone Project/Capstone_Project/obj/Debug/net9.0/Capstone_Project.sourcelink.json
