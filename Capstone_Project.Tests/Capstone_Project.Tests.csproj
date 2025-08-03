@@ -15,9 +15,4 @@
   <ItemGroup>
     <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Capstone_Project\Capstone_Project.csproj" />
-  </ItemGroup>
-
 </Project>
