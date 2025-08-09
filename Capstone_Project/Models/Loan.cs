@@ -35,7 +35,7 @@ namespace Capstone_Project.Models
         public DateTime? ReturnDate
         {
             get => _returnDate;
-            private set => _returnDate = value;
+            set => _returnDate = value;
         }
 
         public bool IsReturned => ReturnDate.HasValue;
